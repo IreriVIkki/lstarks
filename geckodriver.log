@@ -1,0 +1,990 @@
+1528772265528	geckodriver	INFO	geckodriver 0.20.1
+1528772265564	geckodriver	INFO	Listening on 127.0.0.1:55794
+1528772268444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.g6rm6qqiSIKP"
+1528772277581	Marionette	INFO	Listening on port 55802
+1528772278437	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+[Child 8196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Re1528772411730	Marionette	INFO	Listening on port 56117
+1528772412404	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528772449062	geckodriver	INFO	geckodriver 0.20.1
+1528772449095	geckodriver	INFO	Listening on 127.0.0.1:56278
+1528772452134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.OLWDwCKpYNLJ"
+1528772460523	Marionette	INFO	Listening on port 56286
+1528772461328	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528773450610	geckodriver	INFO	geckodriver 0.20.1
+1528773450651	geckodriver	INFO	Listening on 127.0.0.1:57231
+1528773453619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.1spibWJa7Lkp"
+1528773465172	Marionette	INFO	Listening on port 57243
+1528773465253	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4516, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 4516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528777447282	geckodriver	INFO	geckodriver 0.20.1
+1528777447326	geckodriver	INFO	Listening on 127.0.0.1:63038
+1528777450281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.P7rHElpeREMl"
+1528777470162	Marionette	INFO	Listening on port 63050
+1528777470400	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528813436804	geckodriver	INFO	geckodriver 0.20.1
+1528813436844	geckodriver	INFO	Listening on 127.0.0.1:50952
+1528813439878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.hjEDi1JWWNsB"
+1528813451107	Marionette	INFO	Listening on port 50960
+1528813452496	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3784, Gecko[Parent 8096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+chable code after return statement
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+h
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/builUnable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+1528819825269	Marionette	DEBUG	Register listener.js for window 2147483652
+1528819825272	Marionette	ERROR	No reply from Marionette:Register
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+1528819956507	Marionette	DEBUG	Register listener.js for window 8589934593
+1528819956509	Marionette	ERROR	No reply from Marionette:Register
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+[Child 2704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528819991970	geckodriver	INFO	geckodriver 0.20.1
+1528819992010	geckodriver	INFO	Listening on 127.0.0.1:53070
+1528819995033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.zXEp0IulrdkU"
+1528820004697	Marionette	INFO	Listening on port 53078
+1528820005376	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+\rust_mozprofile.l5AnPV5kJE1P"
+1528820259360	Marionette	INFO	Listening on port 53610
+1528820260392	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v85814366/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+[Child 1952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+38704928/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Us[GFX1-]: Could not get a DXGI adapter
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2C0054,name=PContent::Msg_ProvideAnonymousTemporaryFile) Closed channel: cannot send/recv
+
+1528820588387	Marionette	INFO	Listening on port 54436
+[GFX1-]: Could not get a DXGI adapter
+1528820589409	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ps://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6911528820825421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.bZgCmA1yk8rB"
+1528820833843	Marionette	INFO	Listening on port 54841
+1528820833902	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528820962489	geckodriver	INFO	geckodriver 0.20.1
+1528820962526	geckodriver	INFO	Listening on 127.0.0.1:55052
+1528820965504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.qM6RdGbiUvwc"
+1528820976300	Marionette	INFO	Listening on port 55060
+1528820977291	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8791528821033407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.nQAooRzg4c41"
+1528821042145	Marionette	INFO	Listening on port 55401
+1528821043189	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9796, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3512, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 3512, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 3512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1528821057095	geckodriver	INFO	geckodriver 0.20.1
+1528821057135	geckodriver	INFO	Listening on 127.0.0.1:55493
+1528821060157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.bsmmVMhZzxRZ"
+1528821068325	Marionette	INFO	Listening on port 55501
+1528821069198	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9052, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e/common/ipc_channel_win.cc, line 346
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1528821488745	geckodriver	INFO	geckodriver 0.20.1
+1528821488781	geckodriver	INFO	Listening on 127.0.0.1:56054
+1528821491818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.7n5G7pdBKi3B"
+1528821500205	Marionette	INFO	Listening on port 56062
+1528821500995	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+a Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.X8dBQnqGZql4"
+1528822564586	Marionette	INFO	Listening on port 56432
+1528822565054	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v85814366/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528822694687	geckodriver	INFO	geckodriver 0.20.1
+1528822694721	geckodriver	INFO	Listening on 127.0.0.1:56621
+1528822697806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.5b0njLPnETwf"
+1528822708891	Marionette	INFO	Listening on port 56629
+1528822709674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v838704928/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+[Child 4348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/com1528822781824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.OU99twbFEUJG"
+1528822791143	Marionette	INFO	Listening on port 56819
+1528822792009	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ad VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528822865348	geckodriver	INFO	geckodriver 0.20.1
+1528822865388	geckodriver	INFO	Listening on 127.0.0.1:56989
+1528822868419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.pAdduW0O5zmM"
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 614))
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528823123268	geckodriver	INFO	geckodriver 0.20.1
+1528823123303	geckodriver	INFO	Listening on 127.0.0.1:57024
+1528823126333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.m1g81aOxfCiV"
+1528823135306	Marionette	INFO	Listening on port 57032
+1528823136388	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build1528823274251	Marionette	INFO	Listening on port 57316
+1528823274397	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 6120, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+d: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.s2cIaEIOz4km"
+1528823891408	Marionette	INFO	Listening on port 57975
+1528823892030	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528824454043	geckodriver	INFO	geckodriver 0.20.1
+1528824454075	geckodriver	INFO	Listening on 127.0.0.1:58347
+1528824457051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.CJ8JnmxkfqPp"
+1528824466768	Marionette	INFO	Listening on port 58355
+1528824467433	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528825864111	geckodriver	INFO	geckodriver 0.20.1
+1528825864152	geckodriver	INFO	Listening on 127.0.0.1:59025
+1528825867181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.91vsCSaW2UqK"
+1528825876415	Marionette	INFO	Listening on port 59033
+1528825877069	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://ssl.images-createspace.com/tsw/v211127094/js/all.js, line 26: TypeError: window.savingLightbox.showCenter is not a function
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 3864, Chrome_ChildThread] WARUnable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+ile z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+tement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+[Parent 6408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528827625737	geckodriver	INFO	geckodriver 0.20.1
+1528827625777	geckodriver	INFO	Listening on 127.0.0.1:60507
+1528827628746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.Subf5rSDSKOl"
+1528827637364	Marionette	INFO	Listening on port 60515
+1528827638334	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://ssl.images-createspace.com/tsw/v1458814999/js/all.js, line 26: TypeError: window.savingLightbox.showCenter is not a function
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 180: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 6496, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 6496, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+in.cc, line 346
+[Parent 5276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ParUnable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11720, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PUnable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6688, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.gvQ1w4iiUJ4Q"
+1528831487063	Marionette	INFO	Listening on port 63427
+1528831487137	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9221528831608197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.dQamS2MalVS3"
+1528831616679	Marionette	INFO	Listening on port 63609
+1528831617672	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10680, Chrome_Chil1528831843081	Marionette	INFO	Listening on port 63800
+1528831843891	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe1528831918536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.OSNVjaFoltUc"
+1528831929499	Marionette	INFO	Listening on port 63931
+1528831930610	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 80281528832000815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.tX2fJDZAIp1Q"
+1528832009456	Marionette	INFO	Listening on port 64120
+1528832011236	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528832366636	geckodriver	INFO	geckodriver 0.20.1
+1528832366674	geckodriver	INFO	Listening on 127.0.0.1:64320
+1528832369680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.d1Afz3d7gfMW"
+1528832377824	Marionette	INFO	Listening on port 64328
+1528832378481	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10071528832450626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.yGqRPFiQrD9y"
+1528832458661	Marionette	INFO	Listening on port 64459
+1528832459499	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1963416268/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10236, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+OVQC"
+1528833858760	Marionette	INFO	Listening on port 64935
+1528833859961	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/b1528834976092	Marionette	INFO	Listening on port 65272
+1528834976846	Marionette	WARN	TLS certificate errors wiUnable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1528834983372	Marionette	INFO	Listening on port 65284
+1528834984074	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 89: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 10376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528835109062	geckodriver	INFO	geckodriver 0.20.1
+1528835109096	geckodriver	INFO	Listening on 127.0.0.1:49397
+1528835112063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.RY7hT7hGxOGe"
+1528835122340	Marionette	INFO	Listening on port 49405
+1528835122976	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v85814366/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+1528835157507	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1528835157521	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+1528835869404	geckodriver	INFO	geckodriver 0.20.1
+1528835869440	geckodriver	INFO	Listening on 127.0.0.1:49941
+1528835872416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.NlTlRF1sKAMv"
+1528835881858	Marionette	INFO	Listening on port 49949
+1528835882636	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1528835943840	Marionette	ERROR	No reply from Marionette:Register
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+1528835944038	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+[Parent 9912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528836000038	geckodriver	INFO	geckodriver 0.20.1
+1528836000072	geckodriver	INFO	Listening on 127.0.0.1:50314
+1528836003079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.l4BzdQcqNogK"
+1528836011753	Marionette	INFO	Listening on port 50324
+1528836012569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528836014744	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528836408150	geckodriver	INFO	geckodriver 0.20.1
+1528836408186	geckodriver	INFO	Listening on 127.0.0.1:50361
+1528836411193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.Kk3uWbMcUiNd"
+1528836419253	Marionette	INFO	Listening on port 50369
+1528836419679	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://ssl.images-createspace.com/tsw/v2080078138/js/all.js, line 26: TypeError: window.savingLightbox.showCenter is not a function
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+v1802166123/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://ssl.images-createspace.com/tsw/v1767149901/js/all.js, line 26: TypeError: window.savingLightbox.showCenter is not a function
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528837846657	geckodriver	INFO	geckodriver 0.20.1
+1528837846688	geckodriver	INFO	Listening on 127.0.0.1:51580
+1528837849636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.O2fOL3iJfsD4"
+1528837857947	Marionette	INFO	Listening on port 51588
+1528837858559	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://ssl.images-createspace.com/tsw/v1935033479/js/all.js, line 26: TypeError: window.savingLightbox.showCenter is not a function
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1528838095154	geckodriver	INFO	geckodriver 0.20.1
+1528838095181	geckodriver	INFO	Listening on 127.0.0.1:51932
+1528838098238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MEMYSE~1\\AppData\\Local\\Temp\\rust_mozprofile.JSRPUvfI6Srr"
+1528838106300	Marionette	INFO	Listening on port 51940
+1528838107127	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v850647687/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\o1528838326369	Marionette	INFO	Listening on port 52282
+1528838326860	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ssl.images-createspace.com/csp/v1088774838/pub/js/all/lib.js, line 147: unreachable code after return statement
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+JavaScript error: https://ssl.images-createspace.com/tsw/v390717016/js/all.js, line 26: TypeError: window.savingLightbox.showCenter is not a function
+JavaScript error: https://tsw.createspace.com/getstarted/productselection, line 393: TypeError: select is null
+[Child 7608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Me MySelf I\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

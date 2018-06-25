@@ -1,0 +1,1 @@
+MsgBox(0,"This is a random message","Random"]
